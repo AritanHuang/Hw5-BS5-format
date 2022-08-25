@@ -1,4 +1,6 @@
 .aside {
+    max-width: 296px;
+    height: 100vh;
     h1 {
         background-image: url(../images/logo-ANSWER.svg);
         background-repeat: no-repeat;
@@ -7,8 +9,4 @@
         white-space: nowrap;
         display: block;
     }
-}
-.nav {
-    max-width: 296px;
-    height: 100vh;
 }
